@@ -1,0 +1,4 @@
+clapclap
+========
+
+android recognize clap
